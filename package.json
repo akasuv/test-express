@@ -1,1 +1,1 @@
-eyJkZXNjcmlwdGlvbiI6ICJBbiBFeHByZXNzIHNlcnZlciIsICJ2ZXJzaW9uIjogIjEu0IiwgIm1pbmQiOiAiY29tbW9uIiwgImRlcGVuZGVuY2llcyI6IHsiY29udGFjdHMiOiB7InR5cGUiOiAiY29tbW9uIiwicGFja2FnZSI6ICJleHByZXNzIn19fQ==
+{"name": "test-express","version": "1.0.0","description": "An Express server project","main": "index.js","scripts": {"start": "node index.js"},"dependencies": {"express": "^4.17.1"}}
